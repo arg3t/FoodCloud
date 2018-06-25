@@ -13,7 +13,7 @@ import org.json.JSONObject;
 
 import static android.support.constraint.Constraints.TAG;
 
-public class PopTrans1 extends Activity {
+public class PopTrans2 extends Activity {
 	public TextView duration;
 	public TextView from;
 	public TextView to;
@@ -24,30 +24,30 @@ public class PopTrans1 extends Activity {
 	public boolean safe;
 	public boolean stop_cond;
 	public boolean cond_cond;
-	public JSONObject json_trans1;
-	
+	public JSONObject json_trans2;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_pop_trans1);
+		setContentView(R.layout.activity_pop_trans2);
 		duration = (TextView)findViewById(R.id.duration);
 		from = (TextView)findViewById(R.id.from);
 		safe_txt = (TextView)findViewById(R.id.safe_txt);
 		to = (TextView)findViewById(R.id.to);
 		stop = (TextView)findViewById(R.id.stop);
-		cond = (TextView)findViewById(R.id.cond);		
+		cond = (TextView)findViewById(R.id.cond);
 		safe_img = (ImageView) findViewById(R.id.safe_img);
 
 		Bundle extras = getIntent().getExtras();
 		if (extras != null) {
 			try {
-				json_trans1 = new JSONObject(extras.getString("key"));
-				duration.setText(json_trans1.get("Duration").toString() + " hours");
-				safe = (boolean)json_trans1.get("Problematic");
-				to.setText(json_trans1.get("Moved to,from").toString().split("-")[1]);
-				from.setText(json_trans1.get("Moved to,from").toString().split("-")[0]);
-				stop_cond = (boolean)json_trans1.get("Stopped");
-				cond_cond = (boolean)json_trans1.get("Condition");
+				json_trans2 = new JSONObject(extras.getString("key"));
+				duration.setText(json_trans2.get("Duration").toString() + " hours");
+				safe = (boolean)json_trans2.get("Problematic");
+				to.setText(json_trans2.get("Moved to,from").toString().split("-")[1]);
+				from.setText(json_trans2.get("Moved to,from").toString().split("-")[0]);
+				stop_cond = (boolean)json_trans2.get("Stopped");
+				cond_cond = (boolean)json_trans2.get("Condition");
 			}catch(JSONException e){
 				Log.d(TAG,"An error occured with json!");
 			}

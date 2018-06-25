@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PopTrans1"
+    tools:context=".PopTrans2"
     android:background="@drawable/process_bg">
 
     <TextView
@@ -185,5 +185,6 @@
         app:layout_constraintStart_toEndOf="@+id/safe_img"
         app:layout_constraintTop_toTopOf="@+id/safe_img"
         app:layout_constraintVertical_bias="0.0" />
+
 
 </android.support.constraint.ConstraintLayout>

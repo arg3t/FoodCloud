@@ -96,6 +96,14 @@ public class LearnMore extends AppCompatActivity implements View.OnClickListener
                 Intent i = new Intent(LearnMore.this, PackagePop.class);
                 i.putExtra("key", process.get("Packaging").toString());
                 startActivity(i);
+            } else if (v.getId() == R.id.trans1) {
+                Intent i = new Intent(LearnMore.this, PopTrans1.class);
+                i.putExtra("key", process.get("Transport1").toString());
+                startActivity(i);
+            } else if (v.getId() == R.id.trans2) {
+                Intent i = new Intent(LearnMore.this, PopTrans2.class);
+                i.putExtra("key", process.get("Transport2").toString());
+                startActivity(i);
             }
         }catch(JSONException e){
             Log.d(TAG,"An error occured with json");
