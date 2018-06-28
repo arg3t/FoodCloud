@@ -1,1 +1,1 @@
-{"Allergens": [""], "Cooked": false, "Problematic": false, "Process": "", "Nutrients": ["Lactose", "Glucose", "Cocoa"], "BBD": "28.01.2019", "Calories": 180, "Prod_Name": "Chocolate"}
+{"Allergens": ["Lactose", "Gluten", "Nuts"], "Cooked": true, "Problematic": true, "Process": "Fried", "Nutrients": ["Protein(1.52g)", "Carbohydrate(14.6g)", "Fibre(1.1g)", "Soduium(0.18g)", "Fat(10.2g)", "Salt(2.3g)"], "ED": "12.03.2018", "BBD": "18.02.2018", "Calories": 153, "Prod_Name": "Delitos"}
