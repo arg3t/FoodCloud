@@ -1,7 +1,7 @@
 import json
 
 data_format_prod = {
-	'Prod_Name': None, 'BBD': None, 'Nutrients': [], 'Calories': 0, 'Cooked': False 'Allergens': [], 'Problematic': False, 'Process': None, 'ED': None
+	'Prod_Name': "None", 'BBD': "None", 'Nutrients': [], 'Calories': 0, 'Cooked': False 'Allergens': [], 'Problematic': False, 'Process': "None", 'ED': "None"
 }
 
 data_format_proc = {
@@ -13,89 +13,89 @@ data_format_proc = {
 }
 
 data_1_prod = {
-	'Prod_Name': "Delitos", 'BBD': "19.12.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Soduium', 'Fat', 'Salt'],
+	'Prod_Name': "Delitos", 'BBD': "19.12.2018", 'Nutrients': ['Protein(1.52g)', 'Carbohydrate(14.6g)', 'Fibre(1.1g)', 'Soduium(0.18g)', 'Fat(10.2g)', 'Salt(2.3g)'],
 	'Calories': 160, 'Cooked': True, 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': False,
 	'Process': 'Fried', 'ED': "02.09.2018"
 }
 data_2_prod = {
-	'Prod_Name': "Delitos", 'BBD': "18.02.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Soduium', 'Fat', 'Salt'], 'Calories': 153, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': True, 'Process': 'Fried', 'ED': "12.03.2018"
+	'Prod_Name': "Delitos", 'BBD': "18.02.2018", 'Nutrients': ['Protein(1.52g)', 'Carbohydrate(14.6g)', 'Fibre(1.1g)', 'Soduium(0.18g)', 'Fat(10.2g)', 'Salt(2.3g)'], 'Calories': 153, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': True, 'Process': 'Fried', 'ED': "12.03.2018"
 }
 data_3_prod = {
-	'Prod_Name': "Delitos", 'BBD': "10.01.2019", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Soduium', 'Fat', 'Salt'], 'Calories': 155, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': False, 'Process':'Fried' , 'ED': "20.02.2019"
+	'Prod_Name': "Delitos", 'BBD': "10.01.2019", 'Nutrients': ['Protein(1.52g)', 'Carbohydrate(14.6g)', 'Fibre(1.1g)', 'Soduium(0.18g)', 'Fat(10.2g)', 'Salt(2.3g)'], 'Calories': 155, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': False, 'Process':'Fried' , 'ED': "20.02.2019"
 }
 data_4_prod = {
-	'Prod_Name': "Delitos", 'BBD': "12.12.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Soduium', 'Fat', 'Salt'], 'Calories': 161, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': False, 'Process': 'Fried', 'ED': "12.02.2019"
+	'Prod_Name': "Delitos", 'BBD': "12.12.2018", 'Nutrients': ['Protein(1.52g)', 'Carbohydrate(14.6g)', 'Fibre(1.1g)', 'Soduium(0.18g)', 'Fat(10.2g)', 'Salt(2.3g)'], 'Calories': 161, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': False, 'Process': 'Fried', 'ED': "12.02.2019"
 }
 data_5_prod = {
-	'Prod_Name': "Delitos", 'BBD': "12.05.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Soduium', 'Fat', 'Salt'], 'Calories': 167, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': True, 'Process':'Fried', 'ED': "12.06.2018"
+	'Prod_Name': "Delitos", 'BBD': "12.05.2018", 'Nutrients': ['Protein(1.52g)', 'Carbohydrate(14.6g)', 'Fibre(1.1g)', 'Soduium(0.18g)', 'Fat(10.2g)', 'Salt(2.3g)'], 'Calories': 167, 'Cooked': True 'Allergens': ['Lactose','Gluten', 'Nuts'], 'Problematic': True, 'Process':'Fried', 'ED': "12.06.2018"
 }
 
 data_6_prod = {
-	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "02.11.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Sodium', 'Fat', 'Sugar', 'Salt'],
+	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "02.11.2018", 'Nutrients': ['Protein(6g)', 'Carbohydrate(6.8g)', 'Fibre(4g)', 'Sodium(2g)', 'Fat(18g)', 'Sugar(0.5)', 'Salt(0.40g)'],
 	'Calories': 439, 'Cooked': True, 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False,
 	'Process': 'Baked', 'ED': "08.12.2018"
 }
 data_7_prod = {
-	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "20.07.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Sodium', 'Fat', 'Sugar', 'Salt'], 'Calories': 430, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False, 'Process': 'Baked', 'ED': "20.09.2018"
+	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "20.07.2018", 'Nutrients': ['Protein(6g)', 'Carbohydrate(6.8g)', 'Fibre(4g)', 'Sodium(2g)', 'Fat(18g)', 'Sugar(0.5)', 'Salt(0.40g)'], 'Calories': 430, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False, 'Process': 'Baked', 'ED': "20.09.2018"
 }
 data_8_prod = {
-	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "31.07.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Sodium', 'Fat', 'Sugar', 'Salt'], 'Calories': 441, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False, 'Process': 'Baked', 'ED': "25.10.2018"
+	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "31.07.2018", 'Nutrients': ['Protein(6g)', 'Carbohydrate(6.8g)', 'Fibre(4g)', 'Sodium(2g)', 'Fat(18g)', 'Sugar(0.5)', 'Salt(0.40g)'], 'Calories': 441, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False, 'Process': 'Baked', 'ED': "25.10.2018"
 }
 data_9_prod = {
-	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "11.06.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Sodium', 'Fat', 'Sugar', 'Salt'], 'Calories': 444, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': True, 'Process': 'Baked', 'ED': "12.07.2018"
+	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "11.06.2018", 'Nutrients': 'Protein(6g)', 'Carbohydrate(6.8g)', 'Fibre(4g)', 'Sodium(2g)', 'Fat(18g)', 'Sugar(0.5)', 'Salt(0.40g)'[], 'Calories': 444, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': True, 'Process': 'Baked', 'ED': "12.07.2018"
 }
 data_10_prod = {
-	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "20.12.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fibre', 'Sodium', 'Fat', 'Sugar', 'Salt'], 'Calories': 429, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False, 'Process': 'Baked', 'ED': "25.02.2019"
+	'Prod_Name': "Gullon Sugar Free Shortbread Biscuits", 'BBD': "20.12.2018", 'Nutrients': ['Protein(6g)', 'Carbohydrate(6.8g)', 'Fibre(4g)', 'Sodium(2g)', 'Fat(18g)', 'Sugar(0.5)', 'Salt(0.40g)'], 'Calories': 429, 'Cooked': True 'Allergens': ['Lactose', 'Wheat', 'Soya'], 'Problematic': False, 'Process': 'Baked', 'ED': "25.02.2019"
 }
 data_11_prod = {
-	'Prod_Name': "Gluten Free Penne Rigate", 'BBD': "18.02.2019", 'Nutrients': ['Protein', 'Carbohydrate', 'Fiber', 'Sodium', 'Fat', 'Salt'], 'Calories': 359,'Cooked': False 'Allergens': ['Wheat'],
+	'Prod_Name': "Gluten Free Penne Rigate", 'BBD': "18.02.2019", 'Nutrients': ['Protein(6.5g)', 'Carbohydrate(78.7g)', 'Fiber(1.1g)', 'Fat(1.8g)', 'Salt(0.003g)'], 'Calories': 359,'Cooked': False 'Allergens': ['Wheat'],
 	'Problematic': False, 'Process': 'Klining', 'ED': 18.02.2020
 }
 data_12_prod = {
-	'Prod_Name': "Gluten Free Penne Rigate" , 'BBD': "15.05.2019", 'Nutrients': ['Protein', 'Carbohydrate', 'Fiber', 'Sodium', 'Fat', 'Salt'], 'Calories': 351, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "19.11.2019"
+	'Prod_Name': "Gluten Free Penne Rigate" , 'BBD': "15.05.2019", 'Nutrients': ['Protein(6.5g)', 'Carbohydrate(78.7g)', 'Fiber(1.1g)', 'Fat(1.8g)', 'Salt(0.003g)'], 'Calories': 351, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "19.11.2019"
 }
 data_13_prod = {
-	'Prod_Name':  "Gluten Free Penne Rigate", 'BBD': "21.01.2019", 'Nutrients': ['Protein', 'Carbohydrate', 'Fiber', 'Sodium', 'Fat', 'Salt'], 'Calories': 362, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "26.08.2019"
+	'Prod_Name':  "Gluten Free Penne Rigate", 'BBD': "21.01.2019", 'Nutrients': ['Protein(6.5g)', 'Carbohydrate(78.7g)', 'Fiber(1.1g)', 'Fat(1.8g)', 'Salt(0.003g)'], 'Calories': 362, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "26.08.2019"
 }
 data_14_prod = {
-	'Prod_Name':  "Gluten Free Penne Rigate", 'BBD': "22.11.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Fiber', 'Sodium', 'Fat', 'Salt'], 'Calories': 350, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "22.11.2019"
+	'Prod_Name':  "Gluten Free Penne Rigate", 'BBD': "22.11.2018", 'Nutrients': ['Protein(6.5g)', 'Carbohydrate(78.7g)', 'Fiber(1.1g)', 'Fat(1.8g)', 'Salt(0.003g)'], 'Calories': 350, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "22.11.2019"
 }
 data_15_prod = {
-	'Prod_Name':  "Gluten Free Penne Rigate", 'BBD': "30.01.2019", 'Nutrients': ['Protein', 'Carbohydrate', 'Fiber', 'Sodium', 'Fat', 'Salt'], 'Calories': 359, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "20.01.2020"
+	'Prod_Name':  "Gluten Free Penne Rigate", 'BBD': "30.01.2019", 'Nutrients': ['Protein(6.5g)', 'Carbohydrate(78.7g)', 'Fiber(1.1g)', 'Fat(1.8g)', 'Salt(0.003g)'], 'Calories': 359, 'Cooked': False 'Allergens': ['Wheat'], 'Problematic': False, 'Process': 'Klining', 'ED': "20.01.2020"
 }
 
 data_16_prod = {
-	'Prod_Name': "EGE Gluten Free Corn Stach", 'BBD': 27.03.2019, 'Nutrients': ['Fat', 'Carbohydrate', 'Protein'], 'Calories': 360,'Cooked': False 'Allergens': ['Corn'],
+	'Prod_Name': "EGE Gluten Free Corn Starch", 'BBD': 27.03.2019, 'Nutrients': ['Fat(0.3g)', 'Carbohydrate(87.9g)', 'Protein(0.3g)'], 'Calories': 360,'Cooked': False 'Allergens': ['Corn'],
 	'Problematic': False, 'Process': 'Scalping', 'ED': 20.02.2020
 }
 data_17_prod = {
-	'Prod_Name': "EGE Gluten Free Corn Stach", 'BBD': "20.01.2019", 'Nutrients': ['Fat', 'Carbohydrate', 'Protein'], 'Calories': 361, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "20.01.2020"
+	'Prod_Name': "EGE Gluten Free Corn Starch", 'BBD': "20.01.2019", 'Nutrients': ['Fat(0.3g)', 'Carbohydrate(87.9g)', 'Protein(0.3g)'], 'Calories': 361, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "20.01.2020"
 }one
 data_18_prod = {
-	'Prod_Name': "EGE Gluten Free Corn Stach", 'BBD': "12.08.2018", 'Nutrients': ['Fat', 'Carbohydrate', 'Protein'], 'Calories': 362, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "12.07.2019"
+	'Prod_Name': "EGE Gluten Free Corn Starch", 'BBD': "12.08.2018", 'Nutrients': ['Fat(0.3g)', 'Carbohydrate(87.9g)', 'Protein(0.3g)'], 'Calories': 362, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "12.07.2019"
 }
 data_19_prod = {
-	'Prod_Name': "EGE Gluten Free Corn Stach", 'BBD': "17.07.2018", 'Nutrients': ['Fat', 'Carbohydrate', 'Protein'], 'Calories': 364, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "19.07.2019"
+	'Prod_Name': "EGE Gluten Free Corn Starch", 'BBD': "17.07.2018", 'Nutrients': ['Fat(0.3g)', 'Carbohydrate(87.9g)', 'Protein(0.3g)'], 'Calories': 364, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "19.07.2019"
 }
 data_20_prod = {
-	'Prod_Name': "EGE Gluten Free Corn Stach", 'BBD': "25.07.2018", 'Nutrients': ['Fat', 'Carbohydrate', 'Protein'], 'Calories': 360, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "26.07.2019"
+	'Prod_Name': "EGE Gluten Free Corn Starch", 'BBD': "25.07.2018", 'Nutrients': ['Fat(0.3g)', 'Carbohydrate(87.9g)', 'Protein(0.3g)'], 'Calories': 360, 'Cooked': False 'Allergens': ['Corn'], 'Problematic': False, 'Process': 'Scalping', 'ED': "26.07.2019"
 }
 
 data_21_prod = {
-	'Prod_Name': "Tropical Heat Peanuts", 'BBD': 04.02.2019, 'Nutrients': ['Protein', 'Carbohydrate', 'Sugar', 'Saturated Fat', 'Mono-unsaturated Fat', 'Poly-unsaturated Fat', 'Fibre','Salt'], 'Calories': 602,'Cooked': False 'Allergens': ['Peanuts'],
+	'Prod_Name': "Tropical Heat Peanuts", 'BBD': 04.02.2019, 'Nutrients': ['Protein(25.9g)', 'Carbohydrate(27.2g)', 'Sugar(10.8g)', 'Saturated Fat(8.3g)', 'Mono-unsaturated Fat(24.4g)', 'Poly-unsaturated Fat(14.4g)', 'Fibre(6.5g)','Salt(2.25g)'], 'Calories': 602,'Cooked': False 'Allergens': ['Peanuts'],
 	'Problematic': False, 'Process': 'Roasted', 'ED': 09.03.2020
 }
 data_22_prod = {
-	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "19.01.2019", 'Nutrients': ['Protein', 'Carbohydrate', 'Sugar', 'Saturated Fat', 'Mono-unsaturated Fat', 'Poly-unsaturated Fat', 'Fibre','Salt'], 'Calories': 602, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': False, 'Process': 'Roasted', 'ED': "19.05.2019"
+	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "19.01.2019", 'Nutrients': ['Protein(25.9g)', 'Carbohydrate(27.2g)', 'Sugar(10.8g)', 'Saturated Fat(8.3g)', 'Mono-unsaturated Fat(24.4g)', 'Poly-unsaturated Fat(14.4g)', 'Fibre(6.5g)','Salt(2.25g)'], 'Calories': 602, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': False, 'Process': 'Roasted', 'ED': "19.05.2019"
 }
 data_23_prod = {
-	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "15.04.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Sugar', 'Saturated Fat', 'Mono-unsaturated Fat', 'Poly-unsaturated Fat', 'Fibre','Salt'], 'Calories': 610, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': True, 'Process': 'Roasted', 'ED': "19.07.2018"
+	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "15.04.2018", 'Nutrients': ['Protein(25.9g)', 'Carbohydrate(27.2g)', 'Sugar(10.8g)', 'Saturated Fat(8.3g)', 'Mono-unsaturated Fat(24.4g)', 'Poly-unsaturated Fat(14.4g)', 'Fibre(6.5g)','Salt(2.25g)'], 'Calories': 610, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': True, 'Process': 'Roasted', 'ED': "19.07.2018"
 }
 data_24_prod = {
-	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "14.04.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Sugar', 'Saturated Fat', 'Mono-unsaturated Fat', 'Poly-unsaturated Fat', 'Fibre','Salt'], 'Calories': 608, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': False, 'Process': 'Roasted', 'ED': "16.08.2018"
+	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "14.04.2018", 'Nutrients': ['Protein(25.9g)', 'Carbohydrate(27.2g)', 'Sugar(10.8g)', 'Saturated Fat(8.3g)', 'Mono-unsaturated Fat(24.4g)', 'Poly-unsaturated Fat(14.4g)', 'Fibre(6.5g)','Salt(2.25g)'], 'Calories': 608, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': False, 'Process': 'Roasted', 'ED': "16.08.2018"
 }
 data_25_prod = {
-	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "24.03.2018", 'Nutrients': ['Protein', 'Carbohydrate', 'Sugar', 'Saturated Fat', 'Mono-unsaturated Fat', 'Poly-unsaturated Fat', 'Fibre','Salt'], 'Calories': 604, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': True, 'Process': 'Roasted', 'ED': "20.06.2018"
+	'Prod_Name': "Tropical Heat Peanuts", 'BBD': "24.03.2018", 'Nutrients': ['Protein(25.9g)', 'Carbohydrate(27.2g)', 'Sugar(10.8g)', 'Saturated Fat(8.3g)', 'Mono-unsaturated Fat(24.4g)', 'Poly-unsaturated Fat(14.4g)', 'Fibre(6.5g)','Salt(2.25g)'], 'Calories': 604, 'Cooked': False 'Allergens': ['Peanuts'], 'Problematic': True, 'Process': 'Roasted', 'ED': "20.06.2018"
 }
 
 
