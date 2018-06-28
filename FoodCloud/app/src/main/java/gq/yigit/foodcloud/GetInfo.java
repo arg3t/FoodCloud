@@ -21,7 +21,8 @@ public class GetInfo extends AppCompatActivity implements View.OnClickListener {
     }
     public void onClick(View v){
 
-            Intent i = new Intent(GetInfo.this, MainActivity.class);
-            startActivity(i);
+            onBackPressed();
+            //Intent i = new Intent(GetInfo.this, MainActivity.class);
+            //startActivity(i);
     }
 }
