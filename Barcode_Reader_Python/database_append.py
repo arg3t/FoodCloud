@@ -1,7 +1,7 @@
 import json
 
 data_format_prod = {
-	'Prod_Name': None, 'BBD': None, 'Nutrients': [], 'Calories': 0, 'Cooked': False 'Allergens': [], 'Problematic': False, 'Process': None, 'ED': None
+	'Prod_Name': "None", 'BBD': "None", 'Nutrients': [], 'Calories': 0, 'Cooked': False 'Allergens': [], 'Problematic': False, 'Process': "None", 'ED': "None"
 }
 
 data_format_proc = {
