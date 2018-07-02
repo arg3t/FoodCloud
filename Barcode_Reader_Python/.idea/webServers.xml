@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7f02542-2c7d-4458-8ad5-b74cafb752ab" name="home" url="http://yigit.gq">
+        <fileTransfer host="yigit.gq" port="2121">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2121" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -135,6 +135,7 @@ data_5_proc = {
 	'Transport2': {'Duration': 1, 'Moved to,from': 'Gee Tee Industries-Gee Tee Industries', 'Condition':True, 'Stopped': False,'Problematic':False},
 	'Packaging': {'Location': 'Gee Tee Industries', 'Material': 'Polypropylene', 'Cancerogen': False,'Problematic':False}
 }
+
 data_6_proc = {
 	'Harvested': {'Date': '14.05.2017', 'Location': 'Turkey', 'Product': 'Wheat','Problematic':False},
 	'Transport1': {'Duration': 23, 'Moved to,from': 'Turkey-Galletas Gullon SA', 'Condition': True, 'Stopped': True,'Problematic':False},
