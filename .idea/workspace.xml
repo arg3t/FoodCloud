@@ -1,42 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b5ef56c-2d3e-44d9-be69-b414f166f99b" name="Default" comment="" />
+    <list default="true" id="f77644b5-4f2e-4632-a6f5-17e6501befbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/FoodCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataServer/DataServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Server/Robot_Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/Barcode_Reader_Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/vagrant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/arduino-i2c/arduino-i2c.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/database_append.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/database_read.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/generate_moves.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/sort_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barcode_Reader_Python/tst2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ev3_Code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/libs/GenAsync.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/androidTest/java/gq/yigit/foodcloud/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentIntegrator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/FarmPop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/GetInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/LearnMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PHPComm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PackagePop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProcessPop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProductInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/buttonshape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/process_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_farm_pop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_get_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_learn_more.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_package_pop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_pop_trans1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_pop_trans2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_process_pop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_product_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/factory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/farm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/market.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/packaging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values-round/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/test/java/gq/yigit/foodcloud/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/communication/.idea/communication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/communication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/communication/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/communication/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/communication/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/communication/comm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Processes/9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/content/Products/9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/move_apk.sh" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$move.coverage" NAME="move Coverage Results" MODIFIED="1529670744750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$RUN.coverage" NAME="RUN Coverage Results" MODIFIED="1529584815747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/WRO_QR$pydevd.coverage" NAME="pydevd Coverage Results" MODIFIED="1529693199893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$generate_moves.coverage" NAME="generate_moves Coverage Results" MODIFIED="1529665788763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$raspberry_live.coverage" NAME="raspberry_live Coverage Results" MODIFIED="1529585357099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$sort_date.coverage" NAME="sort_date Coverage Results" MODIFIED="1529590504238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1529672838644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$Unnamed.coverage" NAME="raspberry_live Coverage Results" MODIFIED="1529543452123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$database_append.coverage" NAME="database_append Coverage Results" MODIFIED="1529689670654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Barcode_Reader_Python$database_actions.coverage" NAME="database_actions Coverage Results" MODIFIED="1529692830827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/FoodCloud">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="1077" column="30" selection-start-line="1077" selection-start-column="30" selection-end-line="1077" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database_append.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Barcode_Reader_Python/database_append.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataServer/content/Processes/2.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FoodCloud/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FoodCloud/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -46,92 +233,76 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
+        <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find />
-      <find>cam.read</find>
-      <find>dates_orig</find>
-      <find>dates</find>
-      <find>shelf_new</find>
-      <find>database_</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Yiğit Çolakoğlu &lt;yigitcolakoglu@hotmail.com&gt;" />
-      </list>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/zbar_live.py" />
-        <option value="$PROJECT_DIR$/raspberry_zbar.py" />
-        <option value="$PROJECT_DIR$/sort_date.py" />
-        <option value="$PROJECT_DIR$/generate_moves.py" />
-        <option value="$PROJECT_DIR$/move.py" />
-        <option value="$PROJECT_DIR$/database_actions.py" />
-        <option value="$PROJECT_DIR$/database_append.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/database_read.py" />
-        <option value="$PROJECT_DIR$/Barcode_Reader_Python/database_append.py" />
+        <option value="$PROJECT_DIR$/FoodCloud/app/build.gradle" />
+        <option value="$PROJECT_DIR$/FoodCloud/gradle.properties" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="327" />
-    <option name="y" value="28" />
-    <option name="width" value="1356" />
-    <option name="height" value="768" />
+    <option name="x" value="105" />
+    <option name="width" value="1890" />
+    <option name="height" value="1027" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WRO_QR" type="462c0819:PsiDirectoryNode" />
+              <item name="WRO_QR" type="58d84e3e:PackageViewProjectNode" />
+              <item name="GUI" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
-              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WRO_QR" type="462c0819:PsiDirectoryNode" />
-              <item name="Barcode_Reader_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="WRO_QR" type="58d84e3e:PackageViewProjectNode" />
+              <item name="GUI" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="keymap&#9;ACTION&#9;ChangeKeymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Barcode_Reader_Python" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542747534969" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7 (WRO_QR)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FoodCloud" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,333 +316,221 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pydevd">
-    <configuration name="RUN" type="PythonConfigurationType" factoryName="Python">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="database_actions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database_read.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
+      </method>
     </configuration>
-    <configuration name="database_append" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database_append.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="move" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/move.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="pydevd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/helpers/pydev" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="raspberry_live" type="PythonConfigurationType" factoryName="Python">
-      <module name="Barcode_Reader_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raspberry_zbar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.raspberry_live" />
-      <item itemvalue="Python.RUN" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.database_actions" />
-      <item itemvalue="Python.move" />
-      <item itemvalue="Python.database_append" />
-      <item itemvalue="Python.pydevd" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.pydevd" />
-        <item itemvalue="Python.database_actions" />
-        <item itemvalue="Python.database_append" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.move" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b5ef56c-2d3e-44d9-be69-b414f166f99b" name="Default" comment="" />
-      <created>1529543214918</created>
+      <changelist id="f77644b5-4f2e-4632-a6f5-17e6501befbf" name="Default Changelist" comment="" />
+      <created>1542745290180</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529543214918</updated>
+      <updated>1542745290180</updated>
+      <workItem from="1542745291535" duration="135000" />
+      <workItem from="1542745454678" duration="117000" />
+      <workItem from="1542745606184" duration="340000" />
+      <workItem from="1542745981355" duration="265000" />
+      <workItem from="1542746287319" duration="815000" />
+      <workItem from="1542747128494" duration="276000" />
     </task>
-    <task id="LOCAL-00001" summary="completed the algorithm">
-      <created>1529689633554</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1529689633554</updated>
-    </task>
-    <task id="LOCAL-00002" summary="refactored,improved design">
-      <created>1529690495712</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1529690495712</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1948000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1030" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1031" extended-state="6" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2588047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
+      <window_info id="Captures" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007587" side_tool="true" weight="0.4638365" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924126" weight="0.28426966" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19284189" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32928678" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4033708" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962063" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Android Profiler" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="11" />
+      <window_info anchor="right" id="Device File Explorer" order="12" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="13" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962063" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26783004" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924126" visible="true" weight="0.27056962" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39873418" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007587" side_tool="true" weight="0.4638365" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32928678" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="completed the algorithm" />
-    <MESSAGE value="refactored,improved design" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored,improved design" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="4" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$PROJECT_DIR$/FoodCloud/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/Main.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot_Server/database_append.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16005">
-          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        <state relative-caret-position="-840">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/move.py" />
-    <entry file="file://$PROJECT_DIR$/generate_moves.py" />
-    <entry file="file://$PROJECT_DIR$/sort_date.py" />
-    <entry file="file://$PROJECT_DIR$/database_read.py" />
-    <entry file="file://$PROJECT_DIR$/raspberry_zbar.py" />
-    <entry file="file://$PROJECT_DIR$/run.py" />
-    <entry file="file://$PROJECT_DIR$/barcodes.csv" />
-    <entry file="file://$PROJECT_DIR$/run.py" />
-    <entry file="file://$PROJECT_DIR$/barcodes.csv" />
-    <entry file="file://$PROJECT_DIR$/raspberry_zbar.py" />
-    <entry file="file://$PROJECT_DIR$/zbar_live.py" />
-    <entry file="file://$PROJECT_DIR$/sort_date.py" />
-    <entry file="file:///usr/lib/python2.7/dist-packages/serial/serialposix.py">
+    <entry file="file://$PROJECT_DIR$/GUI/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="270" column="12" lean-forward="true" selection-start-line="270" selection-start-column="12" selection-end-line="270" selection-end-column="12" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/move.py" />
-    <entry file="file://$PROJECT_DIR$/database_read.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$PROJECT_DIR$/DataServer/content/Processes/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database_append.py" />
-    <entry file="file://$PROJECT_DIR$/generate_moves.py" />
-    <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/move.py" />
-    <entry file="file://$PROJECT_DIR$/generate_moves.py" />
-    <entry file="file://$PROJECT_DIR$/sort_date.py" />
-    <entry file="file://$PROJECT_DIR$/database_read.py" />
-    <entry file="file://$PROJECT_DIR$/raspberry_zbar.py" />
-    <entry file="file://$PROJECT_DIR$/run.py" />
-    <entry file="file://$PROJECT_DIR$/barcodes.csv" />
-    <entry file="file://$PROJECT_DIR$/run.py" />
-    <entry file="file://$PROJECT_DIR$/barcodes.csv" />
-    <entry file="file://$PROJECT_DIR$/raspberry_zbar.py" />
-    <entry file="file://$PROJECT_DIR$/zbar_live.py" />
-    <entry file="file://$PROJECT_DIR$/sort_date.py" />
-    <entry file="file:///usr/lib/python2.7/dist-packages/serial/serialposix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="270" column="12" lean-forward="true" selection-start-line="270" selection-start-column="12" selection-end-line="270" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/move.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="1077" column="30" selection-start-line="1077" selection-start-column="30" selection-end-line="1077" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database_append.py" />
-    <entry file="file://$PROJECT_DIR$/generate_moves.py" />
-    <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/database_read.py" />
-    <entry file="file://$PROJECT_DIR$/Barcode_Reader_Python/database_append.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10.0.2+13 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GUI.project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: __local_aars__:/home/yigido/projects/WRO_QR/FoodCloud/app/libs/GenAsync.jar:unspecified@jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
