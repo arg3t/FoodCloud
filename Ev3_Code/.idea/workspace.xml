@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="838b21f5-c1c5-4764-bc0e-e2a5b7aa7570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/FoodCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataServer/DataServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Robot_Server/Robot_Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/Barcode_Reader_Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/vagrant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/arduino-i2c/arduino-i2c.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/database_append.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/database_read.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/generate_moves.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/sort_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barcode_Reader_Python/tst2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/libs/GenAsync.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/androidTest/java/gq/yigit/foodcloud/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentIntegrator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/FarmPop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/GetInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/LearnMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/PHPComm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/PackagePop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProcessPop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProductInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/drawable/buttonshape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/drawable/process_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_farm_pop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_get_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_learn_more.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_package_pop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_pop_trans1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_pop_trans2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_process_pop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/layout/activity_product_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/factory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/farm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/market.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/packaging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-mdpi/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/values-round/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/app/src/test/java/gq/yigit/foodcloud/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodCloud/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/communication/.idea/communication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/communication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/communication/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/communication/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/communication/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/communication/comm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Processes/9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/content/Products/9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../move_apk.sh" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="width" value="1890" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ev3_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ev3_Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838b21f5-c1c5-4764-bc0e-e2a5b7aa7570" name="Default Changelist" comment="" />
+      <created>1542747150566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542747150566</updated>
+      <workItem from="1542747151894" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1031" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/i2c_one_shelf.ev3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10.0.2+13 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

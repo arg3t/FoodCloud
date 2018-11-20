@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "554038090297",
+    "firebase_url": "https://foodcloud-f6eb1.firebaseio.com",
+    "project_id": "foodcloud-f6eb1",
+    "storage_bucket": "foodcloud-f6eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554038090297:android:88c7b9f7692bb439",
+        "android_client_info": {
+          "package_name": "gq.yigit.foodcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554038090297-ur5brtr21n2p50hkuiprgbct2l6q76e5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "554038090297-ur5brtr21n2p50hkuiprgbct2l6q76e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELWHmzgjrtJdUQZiITbnfSQpQgcZt7-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554038090297-ur5brtr21n2p50hkuiprgbct2l6q76e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

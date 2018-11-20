@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LearnMore"
+    tools:layout_editor_absoluteY="81dp">
+
+    <ImageView
+        android:id="@+id/trans2_cond"
+        android:layout_width="51dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="48dp"
+        app:layout_constraintBottom_toBottomOf="@+id/trans2"
+        app:layout_constraintEnd_toEndOf="@+id/trans2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/trans2"
+        app:layout_constraintTop_toTopOf="@+id/trans2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/check" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="64dp"
+        android:layout_height="112dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginTop="40dp"
+        android:rotation="70"
+        app:layout_constraintBottom_toBottomOf="@+id/trans2"
+        app:layout_constraintEnd_toEndOf="@+id/trans2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/trans2"
+        app:layout_constraintTop_toTopOf="@+id/trans2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/arrow_left" />
+
+    <ImageView
+        android:id="@+id/packaging_cond"
+        android:layout_width="51dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="68dp"
+        app:layout_constraintBottom_toBottomOf="@+id/packaging"
+        app:layout_constraintEnd_toEndOf="@+id/packaging"
+        app:layout_constraintStart_toStartOf="@+id/packaging"
+        app:layout_constraintTop_toTopOf="@+id/packaging"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/check" />
+
+    <ImageView
+        android:id="@+id/trans2"
+        android:layout_width="151dp"
+        android:layout_height="83dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginTop="48dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView13"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView13"
+        app:layout_constraintVertical_bias="0.13"
+        app:srcCompat="@mipmap/truck" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="184dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="64dp"
+        android:rotation="30"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/factory"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/factory"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.481"
+        app:srcCompat="@mipmap/arrow_right" />
+
+    <ImageView
+        android:id="@+id/factory_cond"
+        android:layout_width="51dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="96dp"
+        app:layout_constraintBottom_toBottomOf="@+id/factory"
+        app:layout_constraintEnd_toEndOf="@+id/factory"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/factory"
+        app:layout_constraintTop_toTopOf="@+id/factory"
+        app:srcCompat="@mipmap/check" />
+
+    <ImageView
+        android:id="@+id/trans1_cond"
+        android:layout_width="51dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="44dp"
+        app:layout_constraintBottom_toBottomOf="@+id/trans1"
+        app:layout_constraintEnd_toEndOf="@+id/trans1"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="@+id/trans1"
+        app:layout_constraintTop_toTopOf="@+id/trans1"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/check" />
+
+    <ImageView
+        android:id="@+id/farm"
+        android:layout_width="116dp"
+        android:layout_height="108dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.02"
+        app:srcCompat="@mipmap/farm" />
+
+    <ImageView
+        android:id="@+id/farm_cond"
+        android:layout_width="51dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="76dp"
+        app:layout_constraintBottom_toBottomOf="@+id/farm"
+        app:layout_constraintEnd_toEndOf="@+id/farm"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/farm"
+        app:layout_constraintTop_toTopOf="@+id/farm"
+        app:layout_constraintVertical_bias="0.285"
+        app:srcCompat="@mipmap/check" />
+
+    <ImageView
+        android:id="@+id/trans1"
+        android:layout_width="151dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="72dp"
+        app:layout_constraintBottom_toBottomOf="@+id/farm"
+        app:layout_constraintEnd_toEndOf="@+id/farm"
+        app:layout_constraintHorizontal_bias="0.08"
+        app:layout_constraintStart_toStartOf="@+id/farm"
+        app:layout_constraintTop_toTopOf="@+id/farm"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/truck" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="196dp"
+        android:layout_height="65dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="20dp"
+        android:rotation="30"
+        app:layout_constraintBottom_toBottomOf="@+id/farm"
+        app:layout_constraintEnd_toEndOf="@+id/farm"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/farm"
+        app:layout_constraintTop_toTopOf="@+id/farm"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@mipmap/arrow_right" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="64dp"
+        android:layout_height="112dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="72dp"
+        android:rotation="70"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView7"
+        app:layout_constraintEnd_toEndOf="@+id/imageView7"
+        app:layout_constraintHorizontal_bias="0.895"
+        app:layout_constraintStart_toStartOf="@+id/imageView7"
+        app:layout_constraintTop_toTopOf="@+id/imageView7"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/arrow_left" />
+
+    <ImageView
+        android:id="@+id/factory"
+        android:layout_width="85dp"
+        android:layout_height="142dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="124dp"
+        app:layout_constraintBottom_toBottomOf="@+id/farm"
+        app:layout_constraintEnd_toEndOf="@+id/farm"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/farm"
+        app:layout_constraintTop_toTopOf="@+id/farm"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/factory" />
+
+    <ImageView
+        android:id="@+id/packaging"
+        android:layout_width="103dp"
+        android:layout_height="103dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginTop="52dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView16"
+        app:layout_constraintEnd_toEndOf="@+id/imageView16"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/imageView16"
+        app:layout_constraintTop_toTopOf="@+id/imageView16"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/packaging" />
+
+    <Button
+        android:id="@+id/go_back_to_main"
+
+        android:layout_width="169dp"
+        android:layout_height="52dp"
+
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="@string/back"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView16"
+        app:layout_constraintEnd_toEndOf="@+id/trans2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/packaging_cond"
+        app:layout_constraintTop_toBottomOf="@+id/trans2"
+        app:layout_constraintVertical_bias="0.0" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataServer/DataServer.iml" filepath="$PROJECT_DIR$/DataServer/DataServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodCloud.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GUI.project.iml" filepath="$PROJECT_DIR$/.idea/modules/GUI.project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GUI.project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GUI.project.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GUI.project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GUI.project.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot_Server/Robot_Server.iml" filepath="$PROJECT_DIR$/Robot_Server/Robot_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodCloud/app/app.iml" filepath="$PROJECT_DIR$/FoodCloud/app/app.iml" />
+    </modules>
+  </component>
+</project>
