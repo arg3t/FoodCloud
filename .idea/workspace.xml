@@ -1,232 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f77644b5-4f2e-4632-a6f5-17e6501befbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WRO_QR.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____home_yigido_projects_WRO_QR_FoodCloud_app_libs_GenAsync_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_15_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_15_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_flags_15_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_15_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_wearable_wearable_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_16_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_16_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_15_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_http_client_google_http_client_1_22_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_http_client_google_http_client_android_1_22_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/FoodCloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/GUI.project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/GUI.project.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/GUI.project.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/.idea/communication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/comm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/communication/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/11.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/15.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/16.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/17.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/18.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/19.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/20.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/23.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/24.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/25.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Processes/9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/11.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/15.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/16.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/17.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/18.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/19.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/20.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/23.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/24.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/25.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataServer/content/Products/9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/libs/GenAsync.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/androidTest/java/gq/yigit/foodcloud/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/gen/gq/yigit/foodcloud/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/gen/gq/yigit/foodcloud/Manifest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/gen/gq/yigit/foodcloud/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentIntegrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/FarmPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/GetInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/LearnMore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PHPComm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PackagePop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProcessPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/buttonshape.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/process_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_farm_pop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_get_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_learn_more.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_package_pop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_pop_trans1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_pop_trans2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_process_pop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_product_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/arrow_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/factory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/farm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/market.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/packaging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/truck.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/warning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values-round/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/app/src/test/java/gq/yigit/foodcloud/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoodCloud/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/.gradle/4.10.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/.gradle/4.10.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/Robot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/arduino-i2c/arduino-i2c.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/database_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/database_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/generate_moves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Server/sort_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/GenAsync.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/FoodCloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FoodCloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/GUI.project.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/GUI.project.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/gen/gq/yigit/foodcloud/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/gen/gq/yigit/foodcloud/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/gen/gq/yigit/foodcloud/Manifest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/gen/gq/yigit/foodcloud/Manifest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/gen/gq/yigit/foodcloud/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/gen/gq/yigit/foodcloud/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentIntegrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/com/google/zxing/integration/android/IntentIntegrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/com/google/zxing/integration/android/IntentResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/com/google/zxing/integration/android/IntentResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/FarmPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/FarmPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/GetInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/GetInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/LearnMore.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/LearnMore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PHPComm.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/PHPComm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PackagePop.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/PackagePop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans1.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/PopTrans1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/PopTrans2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/PopTrans2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProcessPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/ProcessPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/java/gq/yigit/foodcloud/ProductInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/ProductInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/buttonshape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/drawable/buttonshape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/drawable/process_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/drawable/process_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_farm_pop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_farm_pop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_get_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_get_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_learn_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_learn_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_package_pop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_package_pop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_pop_trans1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_pop_trans1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_pop_trans2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_pop_trans2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_process_pop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_process_pop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/layout/activity_product_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/layout/activity_product_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-hdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/arrow_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/arrow_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/arrow_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/arrow_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/check.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/check.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/factory.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/factory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/farm.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/farm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/market.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/market.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/packaging.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/packaging.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/truck.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/truck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-mdpi/warning.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-mdpi/warning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xhdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xxhdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/mipmap-xxxhdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values-round/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/values-round/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodCloud/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/res/values/styles.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/GUI/.gradle/" />
     <ignored path="$PROJECT_DIR$/GUI/build/" />
@@ -244,6 +98,15 @@
       </map>
     </option>
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/WRO_QR$database_append.coverage" NAME="database_append Coverage Results" MODIFIED="1542748998446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robot_Server" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/FoodCloud">
       <ProjectState />
@@ -260,7 +123,35 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/FarmPop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-35">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/PHPComm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -268,6 +159,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>root</find>
+      <find>WRO_QR</find>
+      <find>zy</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -277,8 +175,28 @@
       <list>
         <option value="$PROJECT_DIR$/FoodCloud/app/build.gradle" />
         <option value="$PROJECT_DIR$/FoodCloud/gradle.properties" />
+        <option value="$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/Main.form" />
+        <option value="$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/Main.java" />
+        <option value="$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/GUI_Main.java" />
+        <option value="$PROJECT_DIR$/GUI/src/GUI_Main.java" />
+        <option value="$PROJECT_DIR$/GUI/GUI.iml" />
+        <option value="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/AndroidManifest.xml" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="/usr/share/php" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="105" />
@@ -290,16 +208,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="WRO_QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GenAsync.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
               <item name="WRO_QR" type="58d84e3e:PackageViewProjectNode" />
-              <item name="GUI" type="616d4139:PackageViewModuleNode" />
+              <item name="FoodCLoud" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
               <item name="WRO_QR" type="58d84e3e:PackageViewProjectNode" />
-              <item name="GUI" type="616d4139:PackageViewModuleNode" />
+              <item name="FoodCLoud" type="616d4139:PackageViewModuleNode" />
               <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
             </path>
           </expand>
@@ -307,23 +256,36 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542747624923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542794843897" />
+    <property name="device.picker.selection" value="Nexus" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7 (WRO_QR)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/FoodCloud" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GUI/src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="export JAVA_OPTS='-XX:+IgnoreUnrecognizedVMOptions --add-modules java.se.ee'" />
+      <command value="set JAVA_OPTS=-XX:+IgnoreUnrecognizedVMOptions --add-modules java.se.ee" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -337,15 +299,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GUI_Main">
     <configuration default="true" type="AndroidJUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" singleton="true">
+      <module name="FoodCloud" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
@@ -370,6 +332,52 @@
         <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
       </method>
     </configuration>
+    <configuration name="GUI_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.yigitcolakoglu.GUI.GUI_Main" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.yigitcolakoglu.GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="database_append" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Robot_Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Robot_Server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Robot_Server/database_append.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Application.GUI_Main" />
+      <item itemvalue="Python.database_append" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI_Main" />
+        <item itemvalue="Python.database_append" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -386,7 +394,12 @@
       <workItem from="1542745606184" duration="340000" />
       <workItem from="1542745981355" duration="265000" />
       <workItem from="1542746287319" duration="815000" />
-      <workItem from="1542747128494" duration="524000" />
+      <workItem from="1542747128494" duration="571000" />
+      <workItem from="1542747717434" duration="1008000" />
+      <workItem from="1542748743527" duration="1155000" />
+      <workItem from="1542782122327" duration="3570000" />
+      <workItem from="1542790918423" duration="614000" />
+      <workItem from="1542793752264" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="Seperated and renamed modules">
       <created>1542747581078</created>
@@ -399,12 +412,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2196000" />
+    <option name="totallyTimeSpent" value="9734000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1031" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2588047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2614728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -416,7 +438,7 @@
       <window_info id="Captures" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,18 +446,20 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026681" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3292683" />
       <window_info anchor="bottom" id="Android Profiler" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="14" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4994664" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49733192" visible="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32977587" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" auto_hide="true" id="Flutter Inspector" order="5" show_stripe_button="false" type="SLIDING" weight="0.32977587" />
+      <window_info anchor="right" auto_hide="true" id="Flutter Inspector" internal_type="SLIDING" order="5" show_stripe_button="false" type="SLIDING" weight="0.32977587" />
       <window_info anchor="right" id="Flutter Outline" order="6" show_stripe_button="false" />
       <window_info anchor="right" id="SciView" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -444,6 +468,7 @@
       <window_info anchor="right" id="Capture Analysis" order="11" />
       <window_info anchor="right" id="Device File Explorer" order="12" side_tool="true" />
       <window_info anchor="right" id="Gradle" order="13" />
+      <window_info anchor="right" id="JSON Viewer" order="14" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,33 +479,76 @@
     <option name="LAST_COMMIT_MESSAGE" value="Seperated and renamed modules" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FoodCloud/.project">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/GUI/Main.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/GUI/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/DataServer/content/Processes/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Robot_Server/database_append.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/DataServer/communication/comm.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/Main.form" />
+    <entry file="file://$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/Main.java" />
+    <entry file="file://$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/GUI_Main.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///opt/gradle/src/core-api/org/gradle/api/Project.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="1733">
+          <caret line="445" selection-start-line="445" selection-end-line="445" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/build.gradle">
+    <entry file="file://$PROJECT_DIR$/FoodCloud/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/FoodCloud.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FoodCloud/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -490,10 +558,71 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FoodCloud/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataServer/content/Processes/2.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/GUI/GUI.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/me/yigitcolakoglu/GUI/GUI_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/FarmPop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/GetInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/gen/gq/yigit/foodcloud/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/LearnMore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/java/gq/yigit/foodcloud/PHPComm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -548,12 +677,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GUI.project</last-edited>
+          <last-edited>FoodCLoud</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -572,5 +700,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

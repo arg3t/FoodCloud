@@ -22,9 +22,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".ProductInfo" />
-        Set to true if your app is Standalone, that is, it does not require the handheld
-        app to run.
-        -->
         <activity android:name=".GetInfo" />
         <activity android:name=".LearnMore" />
         <activity
