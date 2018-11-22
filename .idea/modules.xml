@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataServer/DataServer.iml" filepath="$PROJECT_DIR$/DataServer/DataServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/FoodCLoud.iml" filepath="$PROJECT_DIR$/FoodCloud/app/src/FoodCloud/FoodCLoud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Robot_Server/Robot_Server.iml" filepath="$PROJECT_DIR$/Robot_Server/Robot_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodCloud.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot/Robot.iml" filepath="$PROJECT_DIR$/Robot/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodCloud/app/app.iml" filepath="$PROJECT_DIR$/FoodCloud/app/app.iml" />
     </modules>
   </component>
 </project>

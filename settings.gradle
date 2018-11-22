@@ -1,3 +1,4 @@
-include ':FoodCloud', ':FoodCloud'
+include ':FoodCloud', ':FoodCloud', ':app'
 
 
+project(':app').projectDir = new File('FoodCloud/app')

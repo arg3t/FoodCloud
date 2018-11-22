@@ -1,4 +1,4 @@
-#!/home/yigido/projects/WRO_QR/venv/bin/python
+#!/home/yigido/projects/Food_Cloud/venv/bin/python
 
 import sys
 import getopt
