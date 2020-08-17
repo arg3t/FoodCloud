@@ -1,5 +1,5 @@
 # FoodCloud
-<div style="text-align:center"><img src="/logo.png" style="width:500px;height:500px;">/></div>
+<div style="text-align:center"><img src="/logo.png"/></div>
 
 Foodcloud is a project that aims to ensure food safety and transparency between producers and consumer by continuosly tracking the ingredients used in a product from the farm to the supermarket. This is ensured and supported using several technological hardware & software that we have developed including a mobile app, an api and a robot that reorganizes the products in the shelf according to their best before date , therefore significantly decreasing food waste and ensuring 100% consumer safety.
 
